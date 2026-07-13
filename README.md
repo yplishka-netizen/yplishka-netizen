@@ -53,22 +53,65 @@ I also develop Python tools for automating documentation workflows, including do
 
 ---
 
-## Проекты
+## Education & Training / Образование и обучение
 
-### [Doc Version Comparator](https://github.com/yplishka-netizen/doc-version-comparator)
+<table>
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <img
+        src="assets/bonch.png"
+        height="56"
+        alt="СПбГУТ им. проф. М. А. Бонч-Бруевича"
+      >
+    </td>
+    <td valign="top">
+      <strong>2026 — Master's Degree / Магистратура</strong><br>
+      <strong>СПбГУТ им. проф. М. А. Бонч-Бруевича</strong><br>
+      The Bonch-Bruevich Saint Petersburg State University of Telecommunications
+      <br><br>
+      <em>Мультисервисные телекоммуникационные системы и технологии</em><br>
+      Multiservice Telecommunication Systems and Technologies
+    </td>
+  </tr>
 
-Streamlit-сервис для структурного сравнения версий DOCX-документации.
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <img
+        src="assets/bonch.png"
+        height="56"
+        alt="СПбГУТ им. проф. М. А. Бонч-Бруевича"
+      >
+    </td>
+    <td valign="top">
+      <strong>2024 — Bachelor's Degree / Бакалавриат</strong><br>
+      <strong>СПбГУТ им. проф. М. А. Бонч-Бруевича</strong><br>
+      The Bonch-Bruevich Saint Petersburg State University of Telecommunications
+      <br><br>
+      <em>Информационная безопасность</em><br>
+      Information Security
+    </td>
+  </tr>
 
-Возможности:
-
-- сравнение заголовков и разделов;
-- поиск добавленного, удалённого и изменённого текста;
-- сравнение списков и таблиц;
-- группировка изменений по разделам;
-- фильтрация результатов;
-- выгрузка журнала изменений в TXT.
-
-**Стек:** Python, Streamlit, python-docx, difflib.
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <img
+        src="assets/yandex_pr.png"
+        height="48"
+        alt="Яндекс Практикум"
+      >
+    </td>
+    <td valign="top">
+      <strong>Python Developer / Python-разработчик</strong><br>
+      <strong>Яндекс Практикум / Yandex Practicum</strong>
+      <br><br>
+      Прохожу профессиональную программу по Python-разработке: Python, Git,
+      тестирование, архитектура приложений и основы backend-разработки.
+      <br><br>
+      Currently completing a professional Python development programme covering
+      Python, Git, testing, application architecture and backend fundamentals.
+    </td>
+  </tr>
+</table>
 
 ---
 
