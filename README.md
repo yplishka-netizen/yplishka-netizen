@@ -1,2 +1,2 @@
 # Yplishka_home
-Python_development_repository
+Personal GitHub profile | System Analyst, Technical Writer and Python developer
