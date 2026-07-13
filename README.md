@@ -1,27 +1,30 @@
-<div align="center">
-
-# Viktor Danilenko
-
-### Technical Writer · System Analyst · Python Projects
-
-Превращаю сложные IT-системы, архитектуру и процессы  
-в понятную документацию и полезные инструменты.
-
-</div>
+<p align="center">
+  <img
+    src="assets/profile-banner.png"
+    alt="Viktor Danilenko — Technical Writer · System Analyst · Python Projects"
+    width="100%"
+  >
+</p>
 
 ---
 
-## Обо мне
+## About me / Обо мне
 
-Я технический писатель и системный аналитик с опытом работы над документацией для сложных IT-систем.
+### English
 
-Работаю с технической и пользовательской документацией, описанием архитектуры, API, баз данных, требований и бизнес-процессов. Использую подход Docs-as-Code и развиваюсь в Python-разработке, создавая инструменты для автоматизации работы с документацией.
+I am a **System Analyst and Technical Writer** with experience working with complex IT systems, architecture, integrations, databases, APIs, requirements, and business processes.
 
-- Пишу техническую и пользовательскую документацию
-- Описываю архитектуру, интеграции, API и базы данных
-- Работаю с требованиями и техническими процессами
-- Создаю Python-инструменты для технических писателей и аналитиков
-- Изучаю системный анализ и backend-разработку
+I analyze system behavior and information flows, structure technical data, and transform complex solutions into clear documentation for developers, support teams, business stakeholders, and end users.
+
+I also develop Python tools for automating documentation workflows, including document analysis, version comparison, and change tracking.
+
+### Русский
+
+Я **системный аналитик и технический писатель** с опытом работы со сложными IT-системами, архитектурой, интеграциями, базами данных, API, требованиями и бизнес-процессами.
+
+Анализирую поведение систем и информационные взаимодействия, структурирую технические данные и превращаю сложные решения в понятную документацию для разработчиков, сопровождения, бизнеса и конечных пользователей.
+
+Также разрабатываю инструменты на Python для автоматизации работы с документацией: анализа документов, сравнения версий и формирования журналов изменений.
 
 ---
 
