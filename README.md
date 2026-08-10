@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-9-58A6FF?style=for-the-badge&labelColor=00122B" alt="9 projects"/>
+  <img src="https://img.shields.io/badge/Projects-8-58A6FF?style=for-the-badge&labelColor=00122B" alt="8 projects"/>
   <img src="https://img.shields.io/badge/Categories-4-58A6FF?style=for-the-badge&labelColor=00122B" alt="4 categories"/>
   <img src="https://img.shields.io/badge/Languages-EN%20%2F%20RU-58A6FF?style=for-the-badge&labelColor=00122B" alt="EN / RU"/>
 </p>
@@ -26,11 +26,7 @@
 
 Below is my documentation, articles, and design work. Each piece lives in its own repository — you'll find the artifact itself, the context behind it, and a structured preview.
 
-### 🧩 API & Documentation Architecture / API и архитектура документации
-
-- **[DVS API — Documentation Versioning Service](https://github.com/yplishka-netizen/documentation-versioning-service-openapi)**<br>
-  EN: OpenAPI 3.0.3 contract for document versioning, comparison, and review workflows.<br>
-  RU: Спецификация REST API для версионирования, сравнения и согласования документов.
+### 🧩 Algorithm Documentation & Excel Packs / Документация по алгоритмам и Excel-пакеты
 
 - **[Algorithm Documentation Guide for Confluence](https://github.com/yplishka-netizen/confluence-algorithm-documentation-guide)**<br>
   EN: Documentation governance guide for controlled and traceable algorithm specifications.<br>
