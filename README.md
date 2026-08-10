@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=System+Analyst+%26+Technical+Writer;%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B8+%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C;Automating+docs+with+Python;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8E+%D0%BD%D0%B0+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Technical+Writer+%26+System+Analyst;%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%D0%B8+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA;Automating+docs+with+Python;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8E+%D0%BD%D0%B0+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,46 +28,46 @@ Below is my documentation, articles, and design work. Each piece lives in its ow
 
 ### 🧩 API & Documentation Architecture / API и архитектура документации
 
-- **[DVS API — Documentation Versioning Service](https://github.com/yplishka-netizen/documentation-versioning-service-openapi)**
-  EN: OpenAPI 3.0.3 contract for document versioning, comparison, and review workflows.
+- **[DVS API — Documentation Versioning Service](https://github.com/yplishka-netizen/documentation-versioning-service-openapi)**<br>
+  EN: OpenAPI 3.0.3 contract for document versioning, comparison, and review workflows.<br>
   RU: Спецификация REST API для версионирования, сравнения и согласования документов.
 
-- **[Algorithm Documentation Guide for Confluence](https://github.com/yplishka-netizen/confluence-algorithm-documentation-guide)**
-  EN: Documentation governance guide for controlled and traceable algorithm specifications.
+- **[Algorithm Documentation Guide for Confluence](https://github.com/yplishka-netizen/confluence-algorithm-documentation-guide)**<br>
+  EN: Documentation governance guide for controlled and traceable algorithm specifications.<br>
   RU: Руководство по созданию, согласованию и сопровождению алгоритмических спецификаций в Confluence.
 
-- **[EATR R&D / IP Documentation Pack](https://github.com/yplishka-netizen/eatr-ip-rd-documentation-pack)**
-  EN: English-language Excel workbook for IP assets, R&D evidence, monthly controls, and risks.
+- **[EATR R&D / IP Documentation Pack](https://github.com/yplishka-netizen/eatr-ip-rd-documentation-pack)**<br>
+  EN: English-language Excel workbook for IP assets, R&D evidence, monthly controls, and risks.<br>
   RU: Англоязычный Excel-пакет для учёта IP-активов, R&D-доказательств, проверок и рисков.
 
 ### 📘 User & Technical Documentation / Пользовательская и техническая документация
 
-- **[DataMobile Picking Order Guide](https://github.com/yplishka-netizen/datamobile-picking-order-guide)**
-  EN: User guide for configuring picking-order control through the UI and REST API.
+- **[DataMobile Picking Order Guide](https://github.com/yplishka-netizen/datamobile-picking-order-guide)**<br>
+  EN: User guide for configuring picking-order control through the UI and REST API.<br>
   RU: Руководство по настройке контроля порядка подбора товаров через интерфейс DataMobile и REST API.
 
-- **[Unreal Engine 5.5 Open Asset Guide](https://github.com/yplishka-netizen/unreal-engine-open-asset-guide)**
-  EN: Beginner-friendly guide written for a person encountering a computer for the first time.
+- **[Unreal Engine 5.5 Open Asset Guide](https://github.com/yplishka-netizen/unreal-engine-open-asset-guide)**<br>
+  EN: Beginner-friendly guide written for a person encountering a computer for the first time.<br>
   RU: Пошаговое руководство по открытию ассета для пользователя без компьютерного опыта.
 
-- **[Unreal Engine 5 Master Material Guide](https://github.com/yplishka-netizen/unreal-engine-master-material-guide)**
-  EN: Technical guide to building a modular Master Material from reusable Material Functions.
+- **[Unreal Engine 5 Master Material Guide](https://github.com/yplishka-netizen/unreal-engine-master-material-guide)**<br>
+  EN: Technical guide to building a modular Master Material from reusable Material Functions.<br>
   RU: Техническое руководство по созданию модульного Master Material в Unreal Engine 5.
 
 ### 🔬 Research & Visual Design / Исследование и визуальный дизайн
 
-- **[Neural RRT* UAV Path Planning Article](https://github.com/yplishka-netizen/neural-rrt-uav-path-planning-article)**
-  EN: Original VAK-level scientific article on neural sampling bias in RRT* for UAV path planning.
+- **[Neural RRT* UAV Path Planning Article](https://github.com/yplishka-netizen/neural-rrt-uav-path-planning-article)**<br>
+  EN: Original VAK-level scientific article on neural sampling bias in RRT* for UAV path planning.<br>
   RU: Авторская научная статья уровня ВАК о нейросетевом смещении выборки в RRT* для БПЛА.
 
-- **[Security Media Visual System](https://github.com/yplishka-netizen/security-media-visual-system)**
-  EN: Figma visual system and reusable content templates for VK and Yandex Zen.
+- **[Security Media Visual System](https://github.com/yplishka-netizen/security-media-visual-system)**<br>
+  EN: Figma visual system and reusable content templates for VK and Yandex Zen.<br>
   RU: Авторская дизайн-система обложек, аватаров и публикаций для ВКонтакте и Яндекс Дзена.
 
 ### 🐍 Python Project / Python-проект
 
-- **[DOCX Version Comparator](https://github.com/yplishka-netizen/doc-version-comparator)**
-  EN: Python tool for comparing DOCX versions and exporting a structured TXT change report.
+- **[DOCX Version Comparator](https://github.com/yplishka-netizen/doc-version-comparator)**<br>
+  EN: Python tool for comparing DOCX versions and exporting a structured TXT change report.<br>
   RU: Python-инструмент для сравнения версий DOCX и формирования структурированного журнала изменений.
 
 <p align="center">
