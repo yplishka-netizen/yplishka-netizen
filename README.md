@@ -28,6 +28,58 @@ I also develop Python tools for automating documentation workflows, including do
 
 ---
 
+## Portfolio / Портфолио
+
+Selected projects in system analysis, technical writing, API design, research, visual design, and Python development. Each repository contains the original artifact, project context, and a structured preview.
+
+Избранные проекты в области системного анализа, технической документации, проектирования API, научной работы, визуального дизайна и Python-разработки. В каждом репозитории доступны исходный артефакт, описание задачи и структурированный предпросмотр.
+
+### API & Documentation Architecture / API и архитектура документации
+
+- **[DVS API — Documentation Versioning Service](https://github.com/yplishka-netizen/documentation-versioning-service-openapi)**<br>
+  EN: OpenAPI 3.0.3 contract for document versioning, comparison, and review workflows.<br>
+  RU: Спецификация REST API для версионирования, сравнения и согласования документов.
+
+- **[Algorithm Documentation Guide for Confluence](https://github.com/yplishka-netizen/confluence-algorithm-documentation-guide)**<br>
+  EN: Documentation governance guide for controlled and traceable algorithm specifications.<br>
+  RU: Руководство по созданию, согласованию и сопровождению алгоритмических спецификаций в Confluence.
+
+- **[EATR R&D / IP Documentation Pack](https://github.com/yplishka-netizen/eatr-ip-rd-documentation-pack)**<br>
+  EN: English-language Excel workbook for IP assets, R&D evidence, monthly controls, and risks.<br>
+  RU: Англоязычный Excel-пакет для учёта IP-активов, R&D-доказательств, проверок и рисков.
+
+### User & Technical Documentation / Пользовательская и техническая документация
+
+- **[DataMobile Picking Order Guide](https://github.com/yplishka-netizen/datamobile-picking-order-guide)**<br>
+  EN: User guide for configuring picking-order control through the UI and REST API.<br>
+  RU: Руководство по настройке контроля порядка подбора товаров через интерфейс DataMobile и REST API.
+
+- **[Unreal Engine 5.5 Open Asset Guide](https://github.com/yplishka-netizen/unreal-engine-open-asset-guide)**<br>
+  EN: Beginner-friendly guide written for a person encountering a computer for the first time.<br>
+  RU: Пошаговое руководство по открытию ассета для пользователя без компьютерного опыта.
+
+- **[Unreal Engine 5 Master Material Guide](https://github.com/yplishka-netizen/unreal-engine-master-material-guide)**<br>
+  EN: Technical guide to building a modular Master Material from reusable Material Functions.<br>
+  RU: Техническое руководство по созданию модульного Master Material в Unreal Engine 5.
+
+### Research & Visual Design / Исследование и визуальный дизайн
+
+- **[Neural RRT* UAV Path Planning Article](https://github.com/yplishka-netizen/neural-rrt-uav-path-planning-article)**<br>
+  EN: Original VAK-level scientific article on neural sampling bias in RRT* for UAV path planning.<br>
+  RU: Авторская научная статья уровня ВАК о нейросетевом смещении выборки в RRT* для БПЛА.
+
+- **[Security Media Visual System](https://github.com/yplishka-netizen/security-media-visual-system)**<br>
+  EN: Figma visual system and reusable content templates for VK and Yandex Zen.<br>
+  RU: Авторская дизайн-система обложек, аватаров и публикаций для ВКонтакте и Яндекс Дзена.
+
+### Python Project / Python-проект
+
+- **[DOCX Version Comparator](https://github.com/yplishka-netizen/doc-version-comparator)**<br>
+  EN: Python tool for comparing DOCX versions and exporting a structured TXT change report.<br>
+  RU: Python-инструмент для сравнения версий DOCX и формирования структурированного журнала изменений.
+
+---
+
 ## Tech Stack / Технологии и инструменты
 
 ### Development / Разработка
@@ -133,6 +185,7 @@ I also develop Python tools for automating documentation workflows, including do
 
 ## Contacts / Контакты
 
-[![Email](https://img.shields.io/badge/Email-yplishka%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yplishka@gmail.com)
-[![VK](https://img.shields.io/badge/VK-slishk0mp1zdat-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/slishk0mp1zdat)
+[![Main Email](https://img.shields.io/badge/Main_Email-yplishka%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yplishka@gmail.com)
+[![Second Email](https://img.shields.io/badge/Second_Email-danilenkoviktoritjob%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilenkoviktoritjob@gmail.com)
+[![VK](https://img.shields.io/badge/VK-yplishka-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/yplishka)
 [![Telegram](https://img.shields.io/badge/Telegram-%40goodwin33-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/goodwin33)
