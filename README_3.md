@@ -6,79 +6,73 @@
   >
 </p>
 
----
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=System+Analyst+%26+Technical+Writer;%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B8+%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C;Automating+docs+with+Python;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E+%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8E+%D0%BD%D0%B0+Python" alt="Typing SVG" />
+  </a>
+</p>
 
-## About me / Обо мне
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00122B,100:0B2545&height=150&section=header&text=Portfolio%20%2F%20%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE&fontSize=40&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
+</p>
 
-### English
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-9-58A6FF?style=for-the-badge&labelColor=00122B" alt="9 projects"/>
+  <img src="https://img.shields.io/badge/Categories-4-58A6FF?style=for-the-badge&labelColor=00122B" alt="4 categories"/>
+  <img src="https://img.shields.io/badge/Languages-EN%20%2F%20RU-58A6FF?style=for-the-badge&labelColor=00122B" alt="EN / RU"/>
+</p>
 
-I am a **System Analyst and Technical Writer** with experience working with complex IT systems, architecture, integrations, databases, APIs, requirements, and business processes.
+Ниже — моя документация, статьи и дизайн-проекты. Каждая работа лежит в отдельном репозитории: там можно посмотреть сам артефакт, узнать контекст задачи и полистать структурированный превью.
 
-I analyze system behavior and information flows, structure technical data, and transform complex solutions into clear documentation for developers, support teams, business stakeholders, and end users.
+Below is my documentation, articles, and design work. Each piece lives in its own repository — you'll find the artifact itself, the context behind it, and a structured preview.
 
-I also develop Python tools for automating documentation workflows, including document analysis, version comparison, and change tracking.
+### 🧩 API & Documentation Architecture / API и архитектура документации
 
-### Русский
-
-Я **системный аналитик и технический писатель** с опытом работы со сложными IT-системами, архитектурой, интеграциями, базами данных, API, требованиями и бизнес-процессами.
-
-Анализирую поведение систем и информационные взаимодействия, структурирую технические данные и превращаю сложные решения в понятную документацию для разработчиков, сопровождения, бизнеса и конечных пользователей.
-
-Также разрабатываю инструменты на Python для автоматизации работы с документацией: анализа документов, сравнения версий и формирования журналов изменений.
-
----
-
-## Portfolio / Портфолио
-
-Selected projects in system analysis, technical writing, API design, research, visual design, and Python development. Each repository contains the original artifact, project context, and a structured preview.
-
-Избранные проекты в области системного анализа, технической документации, проектирования API, научной работы, визуального дизайна и Python-разработки. В каждом репозитории доступны исходный артефакт, описание задачи и структурированный предпросмотр.
-
-### API & Documentation Architecture / API и архитектура документации
-
-- **[DVS API — Documentation Versioning Service](https://github.com/yplishka-netizen/documentation-versioning-service-openapi)**<br>
-  EN: OpenAPI 3.0.3 contract for document versioning, comparison, and review workflows.<br>
+- **[DVS API — Documentation Versioning Service](https://github.com/yplishka-netizen/documentation-versioning-service-openapi)**
+  EN: OpenAPI 3.0.3 contract for document versioning, comparison, and review workflows.
   RU: Спецификация REST API для версионирования, сравнения и согласования документов.
 
-- **[Algorithm Documentation Guide for Confluence](https://github.com/yplishka-netizen/confluence-algorithm-documentation-guide)**<br>
-  EN: Documentation governance guide for controlled and traceable algorithm specifications.<br>
+- **[Algorithm Documentation Guide for Confluence](https://github.com/yplishka-netizen/confluence-algorithm-documentation-guide)**
+  EN: Documentation governance guide for controlled and traceable algorithm specifications.
   RU: Руководство по созданию, согласованию и сопровождению алгоритмических спецификаций в Confluence.
 
-- **[EATR R&D / IP Documentation Pack](https://github.com/yplishka-netizen/eatr-ip-rd-documentation-pack)**<br>
-  EN: English-language Excel workbook for IP assets, R&D evidence, monthly controls, and risks.<br>
+- **[EATR R&D / IP Documentation Pack](https://github.com/yplishka-netizen/eatr-ip-rd-documentation-pack)**
+  EN: English-language Excel workbook for IP assets, R&D evidence, monthly controls, and risks.
   RU: Англоязычный Excel-пакет для учёта IP-активов, R&D-доказательств, проверок и рисков.
 
-### User & Technical Documentation / Пользовательская и техническая документация
+### 📘 User & Technical Documentation / Пользовательская и техническая документация
 
-- **[DataMobile Picking Order Guide](https://github.com/yplishka-netizen/datamobile-picking-order-guide)**<br>
-  EN: User guide for configuring picking-order control through the UI and REST API.<br>
+- **[DataMobile Picking Order Guide](https://github.com/yplishka-netizen/datamobile-picking-order-guide)**
+  EN: User guide for configuring picking-order control through the UI and REST API.
   RU: Руководство по настройке контроля порядка подбора товаров через интерфейс DataMobile и REST API.
 
-- **[Unreal Engine 5.5 Open Asset Guide](https://github.com/yplishka-netizen/unreal-engine-open-asset-guide)**<br>
-  EN: Beginner-friendly guide written for a person encountering a computer for the first time.<br>
+- **[Unreal Engine 5.5 Open Asset Guide](https://github.com/yplishka-netizen/unreal-engine-open-asset-guide)**
+  EN: Beginner-friendly guide written for a person encountering a computer for the first time.
   RU: Пошаговое руководство по открытию ассета для пользователя без компьютерного опыта.
 
-- **[Unreal Engine 5 Master Material Guide](https://github.com/yplishka-netizen/unreal-engine-master-material-guide)**<br>
-  EN: Technical guide to building a modular Master Material from reusable Material Functions.<br>
+- **[Unreal Engine 5 Master Material Guide](https://github.com/yplishka-netizen/unreal-engine-master-material-guide)**
+  EN: Technical guide to building a modular Master Material from reusable Material Functions.
   RU: Техническое руководство по созданию модульного Master Material в Unreal Engine 5.
 
-### Research & Visual Design / Исследование и визуальный дизайн
+### 🔬 Research & Visual Design / Исследование и визуальный дизайн
 
-- **[Neural RRT* UAV Path Planning Article](https://github.com/yplishka-netizen/neural-rrt-uav-path-planning-article)**<br>
-  EN: Original VAK-level scientific article on neural sampling bias in RRT* for UAV path planning.<br>
+- **[Neural RRT* UAV Path Planning Article](https://github.com/yplishka-netizen/neural-rrt-uav-path-planning-article)**
+  EN: Original VAK-level scientific article on neural sampling bias in RRT* for UAV path planning.
   RU: Авторская научная статья уровня ВАК о нейросетевом смещении выборки в RRT* для БПЛА.
 
-- **[Security Media Visual System](https://github.com/yplishka-netizen/security-media-visual-system)**<br>
-  EN: Figma visual system and reusable content templates for VK and Yandex Zen.<br>
+- **[Security Media Visual System](https://github.com/yplishka-netizen/security-media-visual-system)**
+  EN: Figma visual system and reusable content templates for VK and Yandex Zen.
   RU: Авторская дизайн-система обложек, аватаров и публикаций для ВКонтакте и Яндекс Дзена.
 
-### Python Project / Python-проект
+### 🐍 Python Project / Python-проект
 
-- **[DOCX Version Comparator](https://github.com/yplishka-netizen/doc-version-comparator)**<br>
-  EN: Python tool for comparing DOCX versions and exporting a structured TXT change report.<br>
+- **[DOCX Version Comparator](https://github.com/yplishka-netizen/doc-version-comparator)**
+  EN: Python tool for comparing DOCX versions and exporting a structured TXT change report.
   RU: Python-инструмент для сравнения версий DOCX и формирования структурированного журнала изменений.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00122B,100:0B2545&height=70&section=header" width="100%"/>
+</p>
 
 ## Tech Stack / Технологии и инструменты
 
@@ -110,7 +104,9 @@ Selected projects in system analysis, technical writing, API design, research, v
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,100:00122B&height=70&section=header&reversal=true" width="100%"/>
+</p>
 
 ## Education & Training / Образование и обучение
 
@@ -172,7 +168,9 @@ Selected projects in system analysis, technical writing, API design, research, v
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00122B,100:0B2545&height=70&section=header" width="100%"/>
+</p>
 
 ## Сейчас работаю над
 
@@ -181,11 +179,31 @@ Selected projects in system analysis, technical writing, API design, research, v
 - Развитием навыков системного анализа
 - Изучением API, SQL и backend-разработки
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,100:00122B&height=70&section=header&reversal=true" width="100%"/>
+</p>
+
+## Contribution Snake 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yplishka-netizen/yplishka-netizen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yplishka-netizen/yplishka-netizen/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yplishka-netizen/yplishka-netizen/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00122B,100:0B2545&height=70&section=header" width="100%"/>
+</p>
 
 ## Contacts / Контакты
 
-[![Main Email](https://img.shields.io/badge/Main_Email-yplishka%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yplishka@gmail.com)
-[![Second Email](https://img.shields.io/badge/Second_Email-danilenkoviktoritjob%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilenkoviktoritjob@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yplishka%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yplishka@gmail.com)
+[![Second Email](https://img.shields.io/badge/Second_Email-danilenkoviktoritjob%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilenkoviktoritjob@gmail.com)
 [![VK](https://img.shields.io/badge/VK-yplishka-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/yplishka)
 [![Telegram](https://img.shields.io/badge/Telegram-%40goodwin33-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/goodwin33)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,100:00122B&height=100&section=footer&reversal=true" width="100%"/>
+</p>
